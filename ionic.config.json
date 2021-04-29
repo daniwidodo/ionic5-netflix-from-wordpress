@@ -1,0 +1,7 @@
+{
+  "name": "ionic5-netflix-from-wordpress",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
